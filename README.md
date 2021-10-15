@@ -10,7 +10,7 @@
 <img src="https://discord.c99.nl/widget/theme-2/322514951627603969.png">
 
 
-# Languages 🖥️
+# Languages IK/Familiar with 🖥️
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="40"> - [[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)] 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"> - [[C++](https://www.cplusplus.com/)] <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" width="40"> - [[C](https://www.w3schools.in/c-tutorial/install/)]
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="40"> - [[JS](https://www.javascript.com/)] 
