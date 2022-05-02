@@ -22,6 +22,6 @@
 
 # Stats 📈
 
-![stats](https://github-readme-stats.vercel.app/api?username=pix0070&show_icons=true&theme=graywhite)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pix0070&layout=compact&theme=graywhite)       
+![stats](https://github-readme-stats.vercel.app/api?username=p-qq&show_icons=true&theme=graywhite)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-qq&layout=compact&theme=graywhite)       
 
