@@ -3,7 +3,7 @@
 
 # Hey there 👋
 
-### Im just a 17 yo developer thats bored and doing dumb shit
+### Im just a 18 yo developer thats bored and doing dumb shit
 
 
 # Languages 🖥️
